@@ -1,4 +1,4 @@
-# MIND_Article_Recommender
+# MIND Article Recommender
 
 The MIcrosoft News Dataset (MIND) is a large-scale dataset for news recommendation research. It was collected from anonymized behavior logs of Microsoft News website. The mission of MIND is to serve as a benchmark dataset for news recommendation and facilitate the research in news recommendation and recommender systems area. Link: https://msnews.github.io/
 
